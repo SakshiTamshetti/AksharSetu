@@ -9,19 +9,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/your-username/aksharsetu/graphs/commit-activity)
 
 Bharat has always been a land where languages don’t just coexist—they **intertwine like rhythms in a grand orchestra**, each script preserving centuries of knowledge, culture, and identity. AksharSetu is a next-generation, AI-powered transliteration and cultural bridge application designed to dissolve the "script barrier" that limits accessibility across diverse regions.
-
-![AksharSetu Hero](https://picsum.photos/seed/language/1200/400)
-
-## 📌 Table of Contents
-- [🛑 The Problem](#-the-problem)
-- [💡 The Solution](#-the-solution)
-- [✨ Key Features](#-key-features)
-- [🚀 Tech Stack](#-tech-stack)
-- [🛠️ Getting Started](#-getting-started)
-- [📖 Usage](#-usage)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-
 ---
 
 ## 🛑 The Problem
@@ -121,24 +108,6 @@ We provide a dual-layer output:
 - **Travel Guide:** Enter a location to get safety ratings and cultural tips.
 - **Symbol Library:** Click the "Symbols" icon in the header to browse or search for cultural icons.
 - **Smart Glasses:** Toggle the "AR Vision" mode for a high-contrast, heads-up display interface.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Whether it's adding support for a new script, improving the OCR accuracy, or refining the UI, your help is appreciated.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
