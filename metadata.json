@@ -1,0 +1,9 @@
+{
+  "name": "AksharSetu x",
+  "description": "AksharSetu: A soft and organic script transliteration platform for Bharat. Transliterate signs, documents, and text across diverse scripts with a warm, cultural touch.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
