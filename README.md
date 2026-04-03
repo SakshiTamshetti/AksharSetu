@@ -8,7 +8,9 @@
 [![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini-4285F4?logo=google-gemini)](https://ai.google.dev/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/your-username/aksharsetu/graphs/commit-activity)
 
+
 Bharat has always been a land where languages don’t just coexist—they **intertwine like rhythms in a grand orchestra**, each script preserving centuries of knowledge, culture, and identity. AksharSetu is a next-generation, AI-powered transliteration and cultural bridge application designed to dissolve the "script barrier" that limits accessibility across diverse regions.
+
 ---
 
 ## 🛑 The Problem
@@ -43,10 +45,8 @@ We provide a dual-layer output:
 - **Symbol Library:** A curated collection of cultural, religious, and functional symbols. AksharSetu recognizes common symbols and public signs, converting them into both script and meaning.
 - **Cultural Context:** AI-generated insights into the history and usage of specific words or symbols.
 
-### 🎨 Premium Design
-- **Alive Background:** An organic, breathing background that shifts and scales gently.
-- **Sweet Minimal UI:** A refined, high-end interface that prioritizes clarity and ease of use.
-- **Theme Support:** Fully optimized Light and Dark modes with persistent user preferences.
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/666ca322-a13d-4da0-bfe6-fa948995b549" />
+
 
 ---
 
@@ -107,7 +107,6 @@ We provide a dual-layer output:
 - **Camera Mode:** Grant camera permissions and point at text. Use the "Capture" button for a deep analysis.
 - **Travel Guide:** Enter a location to get safety ratings and cultural tips.
 - **Symbol Library:** Click the "Symbols" icon in the header to browse or search for cultural icons.
-- **Smart Glasses:** Toggle the "AR Vision" mode for a high-contrast, heads-up display interface.
 
 ---
 
